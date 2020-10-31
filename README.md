@@ -2,4 +2,4 @@
 
 Это репозиторий для хранения домашних работ по курсу автоматизации тестирования:
 
-https://github.com/nmoraru/StepicAutomationQAByPython
+https://stepik.org/course/575
